@@ -1,0 +1,2 @@
+scenario,hours,failed_powerflows,min_voltage_pu,max_line_loading_percent,max_trafo_loading_percent,network_losses_MWh,peak_ev_charging_MW,peak_total_depot_load_MW
+step2_depot_base_load,336,0,0.9922357428047955,27.68264501026698,61.478384450122356,22.420137845452096,0.0,4.3501263248

@@ -1,0 +1,8 @@
+depot,vehicle_class,number_of_vehicles,daily_kWh_per_vehicle,shortest_charging_window_h,minimum_required_kW_per_vehicle,charger_type,charger_kW_per_vehicle,installed_kW
+ICA,N3_reefer,12,220.0,6,39.86,DC,50,600
+ICA,N2_truck,8,105.0,6,19.02,AC,22,176
+Mathem,N2_truck,6,105.0,9,12.68,AC,22,132
+Mathem,N1_van,14,36.0,9,4.35,AC,11,154
+Postnord,N2_truck,4,105.0,6,19.02,AC,22,88
+Postnord,N1_van,30,36.0,6,6.52,AC,11,330
+Airmee,N1_van,12,36.0,12,3.26,AC,11,132

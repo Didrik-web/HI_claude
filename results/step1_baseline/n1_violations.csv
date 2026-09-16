@@ -1,0 +1,139 @@
+switch_scenario,line_removed,broken_by,element_name,measured_value,limit_broken
+Base,Line 1-2,Bus,Bus 2,,isolated - no supply
+Base,Line 1-2,Bus,Bus 3,,isolated - no supply
+Base,Line 1-2,Bus,Bus 4,,isolated - no supply
+Base,Line 1-2,Bus,Bus 5,,isolated - no supply
+Base,Line 1-2,Bus,Bus 6,,isolated - no supply
+Base,Line 1-2,Bus,Bus 7,,isolated - no supply
+Base,Line 1-2,Bus,Bus 8,,isolated - no supply
+Base,Line 1-2,Bus,Bus 9,,isolated - no supply
+Base,Line 1-2,Bus,Bus 10,,isolated - no supply
+Base,Line 1-2,Bus,Bus 11,,isolated - no supply
+Base,Line 2-3,Bus,Bus 3,,isolated - no supply
+Base,Line 2-3,Bus,Bus 4,,isolated - no supply
+Base,Line 2-3,Bus,Bus 5,,isolated - no supply
+Base,Line 2-3,Bus,Bus 6,,isolated - no supply
+Base,Line 2-3,Bus,Bus 7,,isolated - no supply
+Base,Line 2-3,Bus,Bus 8,,isolated - no supply
+Base,Line 2-3,Bus,Bus 9,,isolated - no supply
+Base,Line 2-3,Bus,Bus 10,,isolated - no supply
+Base,Line 2-3,Bus,Bus 11,,isolated - no supply
+Base,Line 3-4,Bus,Bus 4,,isolated - no supply
+Base,Line 3-4,Bus,Bus 5,,isolated - no supply
+Base,Line 3-4,Bus,Bus 6,,isolated - no supply
+Base,Line 4-5,Bus,Bus 5,,isolated - no supply
+Base,Line 4-5,Bus,Bus 6,,isolated - no supply
+Base,Line 5-6,Bus,Bus 6,,isolated - no supply
+Base,Line 7-8,Bus,Bus 7,,isolated - no supply
+Base,Line 7-8,Transformer,Trafo 0-1,101.02183929032331,loading above 100.0%
+Base,Line 8-9,Bus,Bus 9,,isolated - no supply
+Base,Line 8-9,Bus,Bus 10,,isolated - no supply
+Base,Line 8-9,Bus,Bus 11,,isolated - no supply
+Base,Line 9-10,Bus,Bus 10,,isolated - no supply
+Base,Line 9-10,Bus,Bus 11,,isolated - no supply
+Base,Line 10-11,Bus,Bus 11,,isolated - no supply
+Base,Line 3-8,Bus,Bus 7,,isolated - no supply
+Base,Line 3-8,Bus,Bus 8,,isolated - no supply
+Base,Line 3-8,Bus,Bus 9,,isolated - no supply
+Base,Line 3-8,Bus,Bus 10,,isolated - no supply
+Base,Line 3-8,Bus,Bus 11,,isolated - no supply
+Base,Line 12-13,Bus,Bus 13,,isolated - no supply
+Base,Line 12-13,Bus,Bus 14,,isolated - no supply
+Base,Line 12-13,Transformer,Trafo 0-1,101.41147271329409,loading above 100.0%
+Base,Line 13-14,Bus,Bus 14,,isolated - no supply
+Base,Line 13-14,Transformer,Trafo 0-1,101.41147271329409,loading above 100.0%
+Config1,Line 1-2,Bus,Bus 5,0.8996759752671921,voltage below 0.9 pu
+Config1,Line 1-2,Bus,Bus 6,0.8981237610443545,voltage below 0.9 pu
+Config1,Line 1-2,Transformer,Trafo 0-12,105.60570265982479,loading above 100.0%
+Config1,Line 2-3,Bus,Bus 4,0.8996700887023434,voltage below 0.9 pu
+Config1,Line 2-3,Bus,Bus 5,0.8983500615443178,voltage below 0.9 pu
+Config1,Line 2-3,Bus,Bus 6,0.8967954043529356,voltage below 0.9 pu
+Config1,Line 2-3,Transformer,Trafo 0-12,105.73513973377781,loading above 100.0%
+Config1,Line 3-4,Bus,Bus 4,,isolated - no supply
+Config1,Line 3-4,Bus,Bus 5,,isolated - no supply
+Config1,Line 3-4,Bus,Bus 6,,isolated - no supply
+Config1,Line 4-5,Bus,Bus 5,,isolated - no supply
+Config1,Line 4-5,Bus,Bus 6,,isolated - no supply
+Config1,Line 5-6,Bus,Bus 6,,isolated - no supply
+Config1,Line 7-8,Bus,Bus 7,,isolated - no supply
+Config1,Line 8-9,Bus,Bus 9,,isolated - no supply
+Config1,Line 8-9,Bus,Bus 10,,isolated - no supply
+Config1,Line 8-9,Bus,Bus 11,,isolated - no supply
+Config1,Line 9-10,Bus,Bus 10,,isolated - no supply
+Config1,Line 9-10,Bus,Bus 11,,isolated - no supply
+Config1,Line 10-11,Bus,Bus 11,,isolated - no supply
+Config1,Line 12-13,Line,Line 1-2,111.81200783371554,loading above 100.0%
+Config1,Line 12-13,Line,Line 2-3,112.31808036456417,loading above 100.0%
+Config1,Line 12-13,Transformer,Trafo 0-1,104.62393873674782,loading above 100.0%
+Config1,Line 13-14,Line,Line 1-2,110.86771853580612,loading above 100.0%
+Config1,Line 13-14,Line,Line 2-3,111.37175910240951,loading above 100.0%
+Config1,Line 13-14,Transformer,Trafo 0-1,104.42634284108527,loading above 100.0%
+Config2,Line 1-2,Bus,Bus 2,,isolated - no supply
+Config2,Line 1-2,Bus,Bus 3,,isolated - no supply
+Config2,Line 1-2,Bus,Bus 4,,isolated - no supply
+Config2,Line 1-2,Bus,Bus 5,,isolated - no supply
+Config2,Line 1-2,Bus,Bus 6,,isolated - no supply
+Config2,Line 1-2,Bus,Bus 7,,isolated - no supply
+Config2,Line 1-2,Bus,Bus 8,,isolated - no supply
+Config2,Line 1-2,Bus,Bus 9,,isolated - no supply
+Config2,Line 1-2,Bus,Bus 10,,isolated - no supply
+Config2,Line 1-2,Bus,Bus 11,,isolated - no supply
+Config2,Line 2-3,Bus,Bus 3,,isolated - no supply
+Config2,Line 2-3,Bus,Bus 4,,isolated - no supply
+Config2,Line 2-3,Bus,Bus 5,,isolated - no supply
+Config2,Line 2-3,Bus,Bus 6,,isolated - no supply
+Config2,Line 2-3,Bus,Bus 7,,isolated - no supply
+Config2,Line 2-3,Bus,Bus 8,,isolated - no supply
+Config2,Line 2-3,Bus,Bus 9,,isolated - no supply
+Config2,Line 2-3,Bus,Bus 10,,isolated - no supply
+Config2,Line 2-3,Bus,Bus 11,,isolated - no supply
+Config2,Line 3-4,Transformer,Trafo 0-1,101.64107406135629,loading above 100.0%
+Config2,Line 4-5,Transformer,Trafo 0-1,101.54770125648443,loading above 100.0%
+Config2,Line 5-6,Transformer,Trafo 0-1,101.48029548960548,loading above 100.0%
+Config2,Line 7-8,Transformer,Trafo 0-1,101.4589958115077,loading above 100.0%
+Config2,Line 8-9,Bus,Bus 9,,isolated - no supply
+Config2,Line 8-9,Bus,Bus 10,,isolated - no supply
+Config2,Line 8-9,Bus,Bus 11,,isolated - no supply
+Config2,Line 9-10,Bus,Bus 10,,isolated - no supply
+Config2,Line 9-10,Bus,Bus 11,,isolated - no supply
+Config2,Line 10-11,Bus,Bus 11,,isolated - no supply
+Config2,Line 3-8,Transformer,Trafo 0-1,101.75940071164536,loading above 100.0%
+Config2,Line 12-13,Bus,Bus 13,,isolated - no supply
+Config2,Line 12-13,Bus,Bus 14,,isolated - no supply
+Config2,Line 12-13,Transformer,Trafo 0-1,101.41096961359813,loading above 100.0%
+Config2,Line 13-14,Bus,Bus 14,,isolated - no supply
+Config2,Line 13-14,Transformer,Trafo 0-1,101.41096961359813,loading above 100.0%
+Config3,Line 1-2,Bus,Bus 2,,isolated - no supply
+Config3,Line 1-2,Bus,Bus 3,,isolated - no supply
+Config3,Line 1-2,Bus,Bus 4,,isolated - no supply
+Config3,Line 1-2,Bus,Bus 5,,isolated - no supply
+Config3,Line 1-2,Bus,Bus 6,,isolated - no supply
+Config3,Line 1-2,Bus,Bus 7,,isolated - no supply
+Config3,Line 1-2,Bus,Bus 8,,isolated - no supply
+Config3,Line 1-2,Bus,Bus 9,,isolated - no supply
+Config3,Line 1-2,Bus,Bus 10,,isolated - no supply
+Config3,Line 1-2,Bus,Bus 11,,isolated - no supply
+Config3,Line 2-3,Bus,Bus 3,,isolated - no supply
+Config3,Line 2-3,Bus,Bus 4,,isolated - no supply
+Config3,Line 2-3,Bus,Bus 5,,isolated - no supply
+Config3,Line 2-3,Bus,Bus 6,,isolated - no supply
+Config3,Line 2-3,Bus,Bus 7,,isolated - no supply
+Config3,Line 2-3,Bus,Bus 8,,isolated - no supply
+Config3,Line 2-3,Bus,Bus 9,,isolated - no supply
+Config3,Line 2-3,Bus,Bus 10,,isolated - no supply
+Config3,Line 2-3,Bus,Bus 11,,isolated - no supply
+Config3,Line 3-4,Transformer,Trafo 0-1,101.67704562372744,loading above 100.0%
+Config3,Line 4-5,Bus,Bus 5,,isolated - no supply
+Config3,Line 4-5,Bus,Bus 6,,isolated - no supply
+Config3,Line 5-6,Bus,Bus 6,,isolated - no supply
+Config3,Line 7-8,Bus,Bus 7,,isolated - no supply
+Config3,Line 7-8,Transformer,Trafo 0-1,100.99641747540964,loading above 100.0%
+Config3,Line 8-9,Transformer,Trafo 0-1,101.414694500236,loading above 100.0%
+Config3,Line 9-10,Transformer,Trafo 0-1,101.40646303418916,loading above 100.0%
+Config3,Line 10-11,Transformer,Trafo 0-1,101.40309477338249,loading above 100.0%
+Config3,Line 3-8,Transformer,Trafo 0-1,101.50276139437896,loading above 100.0%
+Config3,Line 12-13,Bus,Bus 13,,isolated - no supply
+Config3,Line 12-13,Bus,Bus 14,,isolated - no supply
+Config3,Line 12-13,Transformer,Trafo 0-1,101.3838695991227,loading above 100.0%
+Config3,Line 13-14,Bus,Bus 14,,isolated - no supply
+Config3,Line 13-14,Transformer,Trafo 0-1,101.3838695991227,loading above 100.0%

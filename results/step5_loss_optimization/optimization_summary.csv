@@ -1,0 +1,2 @@
+status,objective,loss_proxy_MWh,grid_energy_MWh,delivered_energy_MWh,peak_charging_MW
+Optimal,linearized_marginal_losses,0.4318622737061447,99.61304350200001,91.64400002184001,1.612

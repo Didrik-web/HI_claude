@@ -1,0 +1,8 @@
+depot,vehicle_class,number_of_vehicles,daily_kWh_per_vehicle,weekday_operating_start,weekday_operating_end,weekend_operating_start,weekend_operating_end,charging_efficiency,base_load_power_factor
+ICA,N3_reefer,12,220.0,5,23,7,18,0.92,0.95
+ICA,N2_truck,8,105.0,5,23,7,18,0.92,0.95
+Mathem,N2_truck,6,105.0,7,22,8,18,0.92,0.95
+Mathem,N1_van,14,36.0,7,22,8,18,0.92,0.95
+Postnord,N2_truck,4,105.0,4,22,4,22,0.92,0.95
+Postnord,N1_van,30,36.0,4,22,4,22,0.92,0.95
+Airmee,N1_van,12,36.0,8,20,9,17,0.92,0.95

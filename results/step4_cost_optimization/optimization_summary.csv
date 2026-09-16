@@ -1,0 +1,2 @@
+status,objective,total_cost_EUR,grid_energy_MWh,delivered_energy_MWh,peak_charging_MW
+Optimal,electricity_cost,4759.59641601447,99.61304350200001,91.64400002183999,1.612
